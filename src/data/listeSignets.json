@@ -1,49 +1,49 @@
 [
     {
       "nom": "Cadriciels",
-      "date": 19.95,
+      "date": "1 jan 2020",
       "id": "prd0001",
       "couleur": "#000000"
     },
     {
       "nom": "React",
-      "date": 9.55,
+      "date": "1 jan 2020",
       "id": "prd0002",
       "couleur": "#000000"
     },
     {
       "nom": "Plateformes nuagiques",
-      "date": 24.95,
+      "date": "1 jan 2020",
       "id": "prd0003",
       "couleur": "#000000"
     },
     {
       "nom": "IDEs (nuagiques)",
-      "date": 12.95,
+      "date": "1 jan 2020",
       "id": "prd0004",
       "couleur": "#000000"
     },
     {
       "nom": "Outils JavaScript",
-      "date": 19.50,
+      "date": "1 jan 2020",
       "id": "prd0005",
       "couleur": "#000000"
     },
     {
       "nom": "JavaScript",
-      "date": 13.99,
+      "date": "1 jan 2020",
       "id": "prd0006",
       "couleur": "#000000"
     },
     {
       "nom": "Firebase",
-      "date": 13.99,
+      "date": "1 jan 2020",
       "id": "prd0006",
       "couleur": "#000000"
     },
     {
         "nom": "GraphQL",
-        "date": 13.99,
+        "date": "1 jan 2020",
         "id": "prd0006",
         "couleur": "#000000"
     }
